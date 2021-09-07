@@ -1,0 +1,172 @@
+.image {
+	position: absolute;
+	left: 630px;
+}
+.border{ 
+	border: 0px solid black;
+	background: #50CC00;
+	height: 100px;
+	width: 1900px;
+
+ }
+ .Kotugum {
+ 	position: absolute;
+ 	overflow: hidden;
+ 	width: 620px;
+ 	height: 30px;
+ 	left: 100px;
+ 	padding: 5px;
+ 	top: 150px;
+ 	font-size: 30px;
+ 	border: 0px solid black;
+ 	background: #50CC00;}
+
+.mail {
+	position: absolute;
+	top: 30px;
+	left: 1200px;
+	font-size: 20px;
+	color: white;
+
+
+}
+.Sor {
+	border:  0px solid black;
+	background:#50CC00 ;
+	padding: 5px;
+	position: absolute;
+	top: 200px;
+	left:  100px;
+	width: 620px;
+	height: 170px;
+	font-size: 25px;
+}
+.Jalab {
+	position: absolute;
+	left: 1120px;
+	top:  148px;
+	padding: 5px;
+	font-size: 30px;
+	border: 0px solid black;
+	background:#50CC00 ;
+
+}
+.Ine{
+	position: absolute;
+	left: 1120px;
+	top:  200px;
+	padding: 5px;
+	border: 0px solid black;
+	background:#50CC00;
+	width: 703px;
+	height: 160px;
+	font-size: 25px;
+}
+.Youtube{
+	position: absolute;
+	left: 40px;
+	top: 30px;
+}	
+.VK{
+	position: absolute;
+	left: 110px;
+	top: 30px;
+
+
+}
+.Enin {
+	position: absolute;
+	left: 100px;
+	top: 400px ;
+	border: 0px solid black;
+	background:#50CC00 ;
+	width: 620px;
+	height: 30px;
+	padding: 5px;
+	font-size: 30px;
+
+}
+.Seg {
+	position: absolute;
+	left: 100px;
+	top: 450px;
+	border: 0px solid black;
+	background:#50CC00 ;
+	width: 620px;
+	height: 170px;
+	font-size: 25px;
+	padding: 5px;
+}
+.Sek{
+	position: absolute;
+	left: 1120px;
+	top:  400px;
+	width: 705px;
+	height: 30px;
+	padding: 5px;
+	font-size: 30px;
+	border: 0px solid black;
+	background:#50CC00 ;
+}
+.Rem{
+	position: absolute;
+	padding: 5px;
+	left: 1120px;
+	top: 450px;
+	border: 0px solid black;
+	background:#50CC00 ;
+	width: 705px;
+	height: 170px;
+	font-size: 25px;
+}
+.Am{
+	position: absolute;
+	left: 100px;
+	top: 660px;
+	height: 30px;
+	width: 620px;
+	padding: 5px;
+	border: 0px solid black;
+	background:#50CC00 ;
+	font-size: 29px;
+
+}
+.Ai{
+	position: absolute;
+	left: 100px;
+	top: 710px;
+	border: 0px solid black;
+	padding: 5px;
+	background: #50CC00;
+	font-size: 25px;
+	height: 170px;
+	width: 620px;
+}
+.It {
+	position: absolute;
+	left: 1120px;
+	top: 660px;
+	border: 0px solid black;
+	background:#50CC00;
+	width: 705px;
+	height: 30px;
+	font-size: 30px;
+	padding: 5px;
+}
+.Balas{
+	position: absolute;
+	left:  1120px;
+	top: 710px;
+	border: 0px solid black;
+	background:#50CC00;
+	width: 705px;
+	height: 170px;
+	font-size: 25px;
+	padding: 5px;
+
+}
+.Instagram{
+	position: absolute;
+	left: 180px;
+	top: 40px;
+}
